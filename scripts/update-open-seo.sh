@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# One-command upgrade & redeploy for Ship OpenSEO (zero-upstream-diff workflow).
-# Usage: ./scripts/update-ship-openseo.sh
+# One-command upgrade & redeploy for self-hosted OpenSEO (zero-upstream-diff workflow).
+# Usage: ./scripts/update-open-seo.sh
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT_DIR"

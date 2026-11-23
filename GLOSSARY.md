@@ -1,11 +1,11 @@
-# Ship OpenSEO Deployment
+# OpenSEO Self-Host Deployment
 
 Self-hosted OpenSEO instance operated on Cloudflare under a custom domain while staying strictly aligned with the upstream repository.
 
 ## Language
 
-**Ship OpenSEO**:
-Our self-hosted fork and operational wrapper (`WilderLinDev/ship-openseo`) around the upstream OpenSEO project.
+**Self-Host Fork**:
+Our self-hosted fork and operational wrapper (`WilderLinDev/open-seo`) around the upstream OpenSEO project.
 _Avoid_: OpenSEO Cloud, hosted OpenSEO
 
 **Upstream**:
